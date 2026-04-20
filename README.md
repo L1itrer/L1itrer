@@ -1,8 +1,8 @@
-### Hi, my name is Mateusz
-and I'm currently an IT student.
-🔭 I focus in my studies on the C language.
-⭐ In the future I would like to get into game development.
-♟ I also like playing chess and reading fantasy/sci-fi books.
+### Hello there
+- I like computers
+- I like C
+- I tolerate web
+Check out my projects or something
 
 <!--
 **L1itrer/L1itrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
