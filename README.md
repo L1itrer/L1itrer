@@ -2,7 +2,8 @@
 - I like computers
 - I like C
 - I tolerate web
-Check out my projects or something
+
+Check out my projects or something.
 
 <!--
 **L1itrer/L1itrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
